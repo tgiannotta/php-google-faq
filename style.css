@@ -20,6 +20,7 @@ a{
     color: inherit;
 
 }
+
 .active{
     color: #3367d6;
     border-bottom: 2px solid #3367d6;
@@ -51,10 +52,20 @@ nav{
 
 }
 .main-container{
-    width: 60%;
+    width: 50%;
     margin: auto;
     height: 2000px;
-    background-color: orchid;
+    color: #3c4043;
+}
+.single-faq{
+    margin-top: 80px;
+}
+.single-faq h3{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.single-faq p{
+    font-size: 18px;
 }
 .footer-container{
     width: 100%;
