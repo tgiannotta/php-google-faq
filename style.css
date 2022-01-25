@@ -1,0 +1,23 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-container{
+    width: 100%;
+    background-color: orange;
+    height: 100px;
+}
+.main-container{
+    width: 60%;
+    margin: auto;
+    height: 2000px;
+    background-color: orchid;
+}
+.footer-container{
+    width: 100%;
+    background-color: purple;
+    height: 100px;
+}
